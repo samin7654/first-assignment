@@ -87,3 +87,47 @@
     width: 190px;
     margin-top: 240px;
 }
+
+/* meet the speaker */
+
+
+.meet-parent {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+
+.image {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+.meet-parent h5 {
+    color: #2563eb;
+}
+
+.meet-parent p {
+
+    opacity: 0.7;
+}
+
+.box {
+    text-align: left;
+    border-radius: 20px;
+    overflow: hidden;
+
+
+}
+
+.post {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: rgb(250, 248, 248);
+}
+
+/* pricing section */
