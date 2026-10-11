@@ -28,3 +28,4 @@ The page promotes a conference for engineers, founders and builders. Visitors ca
 - GitHub Pages for hosting
 
 ## Project Structure
+![DevConf 2026 landing page](https://github.com/samin7654/first-assignment/blob/main/assets/Screenshot%202026-10-12%20041121.png)
