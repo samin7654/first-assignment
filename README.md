@@ -1,6 +1,6 @@
 # DevConf 2026 – Conference Landing Page
 
-![DevConf 2026 landing page](assets/Screenshot%202026-10-12%20041121.png)
+![DevConf 2026 landing page](https://github.com/samin7654/first-assignment/blob/main/assets/Screenshot%202026-10-12%20041121.png)
 
 A responsive landing page for **DevConf 2026**, a fictional three-day developer conference. Built as my first assignment.
 
